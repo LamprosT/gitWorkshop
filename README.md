@@ -1,6 +1,6 @@
 # Welcome Bugs
 
-## Topics
+## Topics - Contents
 * init
 * status
 * Three stage thinking
